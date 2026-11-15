@@ -1,0 +1,15 @@
+# Data (download from UCI and place in data/raw/)
+data/raw/
+data/processed/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Environment / editor
+.venv/
+.env
+.vscode/
+.DS_Store
+Thumbs.db
